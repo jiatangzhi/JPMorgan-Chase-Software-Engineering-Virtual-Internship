@@ -6,7 +6,7 @@ This repository contains the submitted patch files of the various tasks assigned
 
 ## Certificate of Completion
 
-![](https://github.com/jiatangzhi/JPMorgan-Chase-Virtual-Internship/blob/master/J.P. Morgan_Wf8R7FBbMorBunvDE_certificate.png)
+![](https://github.com/jiatangzhi/JPMorgan-Chase-Virtual-Internship/blob/master/certificate.png)
 
 
 
