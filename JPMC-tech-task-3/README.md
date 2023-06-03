@@ -33,7 +33,7 @@ Use Perspective to create the chart for the trader’s dashboard.
 <h2 id="installation" >Setup / Installation</h2>
 <p>In order to get the server and client application code working on your machine, <a href="https://insidesherpa.s3.amazonaws.com/vinternships/companyassets/Sj7temL583QAYpHXD/setup_devenv_m3_v3.pdf">follow the setup here</a></p>
 
-<p><b>Note</b>:This is the version of the JPM 3 exercise that uses Python 3. The Python 2.7 version is in <a href="https://github.com/insidesherpa/JPMC-tech-task-3">this other repo</a></p>
+<p><b>Note</b>:This is the version of the JPM 3 exercise that uses Python 3. The Python 2.7 version is in <a href="https://github.com/theforage/forage-jpmc-swe-task-3">this other repo</a></p>
 
 <h2>How to Run</h2>
 <p>Similar to Task 2, start the data feed server by running the python server</p>
